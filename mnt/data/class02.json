@@ -1,0 +1,275 @@
+{
+    "First Person": {
+        "Singular": {
+            "Subject": [
+                "yo"
+            ],
+            "Direct Object": [
+                "me"
+            ],
+            "Indirect Object": [
+                "me"
+            ],
+            "Preposition": [
+                "mi",
+                "conmigo"
+            ],
+            "Reflexive": [
+                "me"
+            ]
+        },
+        "Plural": {
+            "Subject": [
+                "nosotros",
+                "nosotras"
+            ],
+            "Direct Object": [
+                "nos"
+            ],
+            "Indirect Object": [
+                "nos"
+            ],
+            "Preposition": [
+                "nosotros/as",
+                "con nosotros/as"
+            ],
+            "Reflexive": [
+                "nos"
+            ]
+        }
+    },
+    "Second Person": {
+        "Singular": {
+            "You (Informal)": {
+                "Subject": [
+                    "tú"
+                ],
+                "Direct Object": [
+                    "te"
+                ],
+                "Indirect Object": [
+                    "te"
+                ],
+                "Preposition": [
+                    "ti",
+                    "contigo"
+                ],
+                "Reflexive": [
+                    "te"
+                ]
+            },
+            "You (Formal)": {
+                "Subject": [
+                    "usted"
+                ],
+                "Direct Object": [
+                    "lo",
+                    "la"
+                ],
+                "Indirect Object": [
+                    "le"
+                ],
+                "Preposition": [
+                    "usted",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            }
+        },
+        "Plural": {
+            "You (Informal)": {
+                "Subject": [
+                    "vosotros",
+                    "vosotras"
+                ],
+                "Direct Object": [
+                    "os"
+                ],
+                "Indirect Object": [
+                    "os"
+                ],
+                "Preposition": [
+                    "vosotros/as",
+                    "con vosotros/as"
+                ],
+                "Reflexive": [
+                    "os"
+                ]
+            },
+            "You (Formal/Informal)": {
+                "Subject": [
+                    "ustedes"
+                ],
+                "Direct Object": [
+                    "los",
+                    "las"
+                ],
+                "Indirect Object": [
+                    "les"
+                ],
+                "Preposition": [
+                    "ustedes",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            }
+        }
+    },
+    "Third Person": {
+        "Singular": {
+            "Masculine": {
+                "Subject": [
+                    "él"
+                ],
+                "Direct Object": [
+                    "lo"
+                ],
+                "Indirect Object": [
+                    "le"
+                ],
+                "Preposition": [
+                    "él",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            },
+            "Feminine": {
+                "Subject": [
+                    "ella"
+                ],
+                "Direct Object": [
+                    "la"
+                ],
+                "Indirect Object": [
+                    "le"
+                ],
+                "Preposition": [
+                    "ella",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            },
+            "Neutral": {
+                "Subject": [
+                    "ello"
+                ],
+                "Direct Object": [
+                    "lo"
+                ],
+                "Preposition": [
+                    "ello"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            }
+        },
+        "Plural": {
+            "Masculine": {
+                "Subject": [
+                    "ellos"
+                ],
+                "Direct Object": [
+                    "los"
+                ],
+                "Indirect Object": [
+                    "les"
+                ],
+                "Preposition": [
+                    "ellos",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            },
+            "Feminine": {
+                "Subject": [
+                    "ellas"
+                ],
+                "Direct Object": [
+                    "las"
+                ],
+                "Indirect Object": [
+                    "les"
+                ],
+                "Preposition": [
+                    "ellas",
+                    "consigo"
+                ],
+                "Reflexive": [
+                    "se"
+                ]
+            }
+        }
+    },
+    "Demonstratives": {
+        "Singular": {
+            "Masculine": {
+                "Proximity": [
+                    "este"
+                ],
+                "Distance": [
+                    "ese"
+                ],
+                "Farther Distance": [
+                    "aquel"
+                ]
+            },
+            "Feminine": {
+                "Proximity": [
+                    "esta"
+                ],
+                "Distance": [
+                    "esa"
+                ],
+                "Farther Distance": [
+                    "aquella"
+                ]
+            },
+            "Neutral": {
+                "Proximity": [
+                    "esto"
+                ],
+                "Distance": [
+                    "eso"
+                ],
+                "Farther Distance": [
+                    "aquello"
+                ]
+            }
+        },
+        "Plural": {
+            "Masculine": {
+                "Proximity": [
+                    "estos"
+                ],
+                "Distance": [
+                    "esos"
+                ],
+                "Farther Distance": [
+                    "aquellos"
+                ]
+            },
+            "Feminine": {
+                "Proximity": [
+                    "estas"
+                ],
+                "Distance": [
+                    "esas"
+                ],
+                "Farther Distance": [
+                    "aquellas"
+                ]
+            }
+        }
+    }
+}
