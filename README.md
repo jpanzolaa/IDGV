@@ -1,7 +1,7 @@
-# Gender Discourse Violence Index (GDV IAI)
+# Gender Discourse Violence Index (GDVI_AI)
 
 ## Overview
-The **Gender Discourse Violence Index (GDV IAI)** is a **multidimensional Natural Language Processing (NLP) framework** designed to **detect and quantify gender-based violence in digital conversations**, particularly on **WhatsApp**.  
+The **Gender Discourse Violence Index (GDVI_AI)** is a **multidimensional Natural Language Processing (NLP) framework** designed to **detect and quantify gender-based violence in digital conversations**, particularly on **WhatsApp**.  
 It integrates linguistic, emotional, and grammatical analysis to identify both **explicit and implicit forms of discursive violence**.
 
 This repository implements the GDV IAI as presented in the paper:  
@@ -31,7 +31,7 @@ This repository implements the GDV IAI as presented in the paper:
 
 ## Methodology
 
-The GDV IAI model integrates four main computational layers:
+The GDVI_AI model integrates four main computational layers:
 
 1. **Toxicity Classification** – Prompt-based detection using a fine-tuned LLM.
 2. **Sentiment Analysis** – Contextual polarity evaluation using BERT.
@@ -40,7 +40,7 @@ The GDV IAI model integrates four main computational layers:
 
 The resulting index is computed as:
 
-GDV_IAI = (Toxa * 9 + α * Toxb * Pers + β * (Sent * Eb * Pers + 3) * 1.5 + γ * Pers * Ins * 0.22) / (2 * (α + β + γ))
+GDVI_AI = (Toxa * 9 + α * Toxb * Pers + β * (Sent * Eb * Pers + 3) * 1.5 + γ * Pers * Ins * 0.22) / (2 * (α + β + γ))
 
 
 Where:
